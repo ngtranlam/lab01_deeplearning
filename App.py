@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pickle
 import pandas as pd
-from sklearn import datasets
 
 # Tải mô hình
 @st.cache_data
